@@ -6,7 +6,7 @@ sites:
   - name: BotiCord
     url: https://boticord.top
   - name: BotiCord API [v1]
-    url: https://boticord.top/api/v1
+    url: https://api.boticord.top/v1
   - name: BotiCord Shorter
     url: https://dsrv.top
   - name: The Nether [Mastodon]
