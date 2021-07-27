@@ -1,7 +1,7 @@
 url: https://api.boticord.top/v1
-status: down
-code: 503
-responseTime: 267
-lastUpdated: 2021-07-26T23:16:21.249Z
+status: up
+code: 200
+responseTime: 730
+lastUpdated: 2021-07-27T20:38:36.687Z
 startTime: Fri Jul 02 2021 17:50:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
