@@ -7,14 +7,12 @@ sites:
     url: https://boticord.top
   - name: BotiCord API [v1]
     url: https://api.boticord.top/v1
-  - name: BotiCord Shorter
-    url: https://dsrv.top
-  - name: The Nether [Mastodon]
-    url: https://nether.sqdsh.top
+  - name: bcord.cc [BotiCord Shorter]
+    url: https://bcord.cc
+  - name: ENV [Mastodon]
+    url: https://env.sqdsh.top
   - name: Sadly Shape Cloud [Gitea]
     url: https://git.sqdsh.top
-  - name: Image Storage
-    url: https://img.sqdsh.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
