@@ -1,7 +1,7 @@
 url: https://env.sqdsh.top
-status: up
-code: 200
-responseTime: 1096
-lastUpdated: 2021-08-21T23:16:11.586Z
+status: down
+code: 503
+responseTime: 194
+lastUpdated: 2021-08-22T07:32:13.529Z
 startTime: Mon Aug 02 2021 06:03:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
