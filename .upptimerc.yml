@@ -3,12 +3,18 @@ owner: vlfz # Your GitHub organization or username, where this repository lives
 repo: uptime.sqdsh.top # The name of this repository
 
 sites:
-  - name: BotiCord API [Core]
+  - name: BotiCord [bot/server monitoring]
+    url: https://boticord.top
+  - name: BotiCord API [core]
     url: https://api.boticord.top
   - name: BotiCord API [v1]
     url: https://api.boticord.top/v1
-  - name: bcord.cc [BotiCord Shorter]
-    url: https://bcord.cc
+  - name: linkshaper [main domain]
+    url: https://sqdsh.top
+  - name: Bitwarden [password manager]
+    url: https://vault.sqdsh.top
+  - name: Portainer [docker web panel]
+    url: https://portainer.sqdsh.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +24,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/32297717?v=4
   name: SQDSH Uptime
   introTitle: "Мониторинг работы сервисов SQDSH"
-  introMessage: Мониторинг работы сервисов SQDSH - BotiCord, The Nether и т.д.
+  introMessage: Мониторинг работы сервисов SQDSH
   navbar:
     - title: Главная
       href: /
