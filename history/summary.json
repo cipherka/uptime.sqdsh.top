@@ -95,19 +95,19 @@
     "url": "https://sqdsh.top",
     "icon": "https://favicons.githubusercontent.com/sqdsh.top",
     "slug": "linkshaper-main-domain",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1234,
-    "timeDay": 938,
-    "timeWeek": 1198,
-    "timeMonth": 1222,
-    "timeYear": 1234,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1232,
+    "timeDay": 1017,
+    "timeWeek": 1196,
+    "timeMonth": 1220,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2022-02-16": 0
+      "2022-02-16": 16
     }
   },
   {
